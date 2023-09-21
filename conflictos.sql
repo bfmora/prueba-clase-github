@@ -5,4 +5,4 @@ SET
     column2 = new_value2,
 WHERE
     -- Keep this in a single line
-    id IN (0);
+    id IN (2225811);
