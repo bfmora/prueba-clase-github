@@ -6,4 +6,4 @@ SET
 WHERE
     -- Keep this in a single line
 
-    id IN (0, 2200627, 20130979, 2200388);
+    id IN (0, 2200627, 20130979, 2200388, 2190700);
