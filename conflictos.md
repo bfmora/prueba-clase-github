@@ -1,5 +1,9 @@
 # Hola Mundo:
 
+<<<<<<< HEAD
+- Mi grupo es el Grupo: 4
+- Los integrantes son:
+=======
 
 - Mi grupo es el Grupo: 6
 - Los integrantes son:
@@ -39,10 +43,13 @@
 
 - Mi grupo es el Grupo: 4
 - Los integrantes son:
+>>>>>>> 1e426da5661d04eaa632750dbebfe6f4b05b8b75
 	- Juan David Duque Echeverry - 2200388
 	- Juan Camilo Hernandez - 2216037
 	- David Stivens Ordoñez Ojeda - 2180756
 	- Andres Soto - 2225811
+<<<<<<< HEAD
+=======
 
 - Mi grupo es el Grupo: 0
 - Los integrantes son:
@@ -57,3 +64,4 @@
 - Harold Stiven Henao Torres - 2202009
 
 
+>>>>>>> 1e426da5661d04eaa632750dbebfe6f4b05b8b75
