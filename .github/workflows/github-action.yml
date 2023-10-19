@@ -20,7 +20,7 @@ jobs:
           node-version: "18"
 
       - name: Go to folder
-        run: cd ./front-app
+        run: cd front-app
 
       - name: Install Dependencies
         run: npm install
