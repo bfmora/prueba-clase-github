@@ -19,14 +19,10 @@ jobs:
         with:
           node-version: "18"
 
-      - name: Check Folders
-        run: ls
-
-      - name: Go to folder
-        run: cd front-app
-
       - name: Install Dependencies
         run: npm install
+        working-directory: ./front-app
 
       - name: Build
         run: npm run build
+        working-directory: ./front-app
