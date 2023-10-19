@@ -19,6 +19,9 @@ jobs:
         with:
           node-version: "18"
 
+      - name: Check Folders
+        run: ls
+
       - name: Go to folder
         run: cd front-app
 
