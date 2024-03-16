@@ -11,6 +11,7 @@ Format
 - `Laura Sofia Rengifo - 2210043`
 - `Jaime Humberto Ñañez Caicedo - 2202097`
 - `Juan David Bohorquez Grimaldo - 2201732`
+- `Juan David Guzman Ascuntar - 2205483`
 - `Brayan David Maca Macancela - 2205334`
 - `Juan Manuel Ospina Tenorio - 2205539 `
 - ...
