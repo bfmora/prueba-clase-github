@@ -8,4 +8,7 @@ Format
 - `Jhojan Stiven Espinosa Montes - 2205936`
 - `Juan Carlos López Ramírez - 2211464`
 - `Juan David Bohorquez Grimaldo - 2201732`
+- `Juan David Guzman Ascuntar - 2205483`
+
+
 - ...
