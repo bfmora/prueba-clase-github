@@ -13,4 +13,5 @@ Format
 - `Juan David Bohorquez Grimaldo - 2201732`
 - `Brayan David Maca Macancela - 2205334`
 - `Juan Manuel Ospina Tenorio - 2205539 `
+- `Jhuly Andrea Vivas Vivas - 2204989 `
 - ...
