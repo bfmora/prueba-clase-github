@@ -2,7 +2,7 @@ import { getInitials } from "./helpers";
 
 function App({ name = "John Doe" }) {
   const initials = getInitials(name);
-jhgasjhdgas
+  
   return (
     <div className="bg-black h-screen w-screen flex gap-4 flex-col p-4">
       <span className="text-white text-xl capitalize">Hello {name}!</span>
