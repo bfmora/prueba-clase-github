@@ -37,6 +37,6 @@ describe("App", () => {
 
     const initials = getByTestId("initials");
     expect(initials).toBeDefined();
-    expect(initials.textContent).toBe("dasdas");
+    expect(initials.textContent).toBe("J");
   });
 });
