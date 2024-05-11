@@ -14,10 +14,23 @@ vi.mock("./helpers", () => ({
 }));
 
 describe("App", () => {
+  test("Should render the app component with the default name", () => {
+    mocks.getInitials.mockReturnValue("JD");
+
+    const { getByTestId } = render(<App />);
+
+    const element = screen.getByText("Hello John Doe!");
+    expect(element).toBeDefined();
+
+    const initials = getByTestId("initials");
+    expect(initials).toBeDefined();
+    expect(initials.textContent).toBe("JD");
+  });
+
   test("Should render the app component", () => {
     mocks.getInitials.mockReturnValue("J");
 
-    const { getByTestId } = render(<App />);
+    const { getByTestId } = render(<App name="Juan" />);
 
     const element = screen.getByText("Hello Juan!");
     expect(element).toBeDefined();

@@ -1,7 +1,6 @@
 import { getInitials } from "./helpers";
 
-function App() {
-  const name = "John Doe";
+function App({ name = "John Doe" }) {
   const initials = getInitials(name);
 
   return (
